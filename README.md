@@ -47,10 +47,10 @@ Master of Science in Electrical and Computer Engineering  &emsp;    &emsp; &emsp
 - Created an AI chatting system and FAQ section, optimizing parent-child component values alignment.
 
 ## PROJECTS
-**Own Listening Practice**<img height="30" width="90" src="https://github.com/RNCHEN/RNCHEN/assets/71336168/0d8a3597-e60f-4d30-9e32-439089424ad0">
+**Own Listening Practice**  &emsp;<img height="30" width="90" src="https://github.com/RNCHEN/RNCHEN/assets/71336168/0d8a3597-e60f-4d30-9e32-439089424ad0">
   &emsp;*Dec 2022 - Jun 2023*
 
-- Designed software system for English listening comprehension assistance using native **JavaScript<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">**, **Django**, and **MySQL<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 50px; height: 50px; margin-right: 50px; margin-bottom: 0px;" />**.
+- Designed software system for English listening comprehension assistance using native **JavaScript<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">**, **Django**, and **MySQL<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 50px; height: 50px; margin-right: 50px; margin-bottom: 0px;" />**. Github repo is [here](https://github.com/RNCHEN/OLP.git)
 - Utilized APIs for audio material translation and employed **FFmpeg** for processing recorded audio segments.
 - Implemented approximate matching and completion using **regular expressions** and matching algorithm.
 - Presented data history using Echarts, explored and exhibited phonetically related words with Datamuse API.
