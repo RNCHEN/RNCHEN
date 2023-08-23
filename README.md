@@ -47,21 +47,22 @@ Master of Science in Electrical and Computer Engineering  &emsp;    &emsp; &emsp
 - Created an AI chatting system and FAQ section, optimizing parent-child component values alignment.
 
 ## PROJECTS
-**Own Listening Practice** *Dec 2022 - Jun 2023*
+**Own Listening Practice**<img height="30" width="90" src="https://github.com/RNCHEN/RNCHEN/assets/71336168/0d8a3597-e60f-4d30-9e32-439089424ad0">
+  &emsp;*Dec 2022 - Jun 2023*
 
 - Designed software system for English listening comprehension assistance using native **JavaScript<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">**, **Django**, and **MySQL<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 50px; height: 50px; margin-right: 50px; margin-bottom: 0px;" />**.
 - Utilized APIs for audio material translation and employed **FFmpeg** for processing recorded audio segments.
 - Implemented approximate matching and completion using **regular expressions** and matching algorithm.
 - Presented data history using Echarts, explored and exhibited phonetically related words with Datamuse API.
 
-**Economic Data Visualization** *Mar 2022*
+**Economic Data Visualization**  &emsp; *Mar 2022*
 
 - Constructed economic data visualization [website](https://rnchen.github.io/firstDeployment/) using JavaScript, Python<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp"> and CSS<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">.
 - Utilized **CSS keyframes** for animations and created unique data-advertising bubbles.
 - Replicated Apple Dock effect and utilized web crawler and Jieba lib in Python for high-frequency words extraction.
 - A similar project about the data visualization of university entry examination can be seen [here](https://rnchen.github.io/2021-cdc-display/)
 
-**Background Management System** *Jun 2022*
+**Background Management System**  &emsp; *Jun 2022*
 
 - Developed user management system with **Javascript**, **SpringBoot<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" style="width: 30; height: 30; margin-right: 0px; margin-bottom: 0px;" />**, **Vue**, **ElementUI**, and more.
 - Implemented various functions including login verification code, file upload, online chat room, and more.
