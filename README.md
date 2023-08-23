@@ -29,7 +29,8 @@ Master of Science in Electrical and Computer Engineering  &emsp;    &emsp; &emsp
 
 ## INTERNSHIP
 
-**SAP (China)** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp; &emsp;  &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;*Sep 2022 – Apr 2023*  
+**SAP (China)** &emsp;<img height="30" width="50" src="https://github.com/RNCHEN/RNCHEN/assets/71336168/2d29dee3-1ea0-435c-97dd-2355bb40a922">
+&emsp; &emsp;  &emsp; &emsp; &emsp;  &emsp; &emsp;&emsp;&emsp; &emsp;  &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;*Sep 2022 – Apr 2023*  
 *Software Engineer Intern*  &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;Chengdu, China
 
 
@@ -37,7 +38,7 @@ Master of Science in Electrical and Computer Engineering  &emsp;    &emsp; &emsp
 - Enhanced working hours comparison feature, integrated data percentage table, and implemented bulk selectable and deletion functions, increasing efficiency by 50%.
 - Refactored AIIB's file upload project, utilizing **FormData** for PUT method upload, handling **csrf** issues, reducing redundant APIs, and improving response speed by 10%.
 
-**Data Dream Technology Company**  &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp;  &emsp; &emsp;&emsp;*Feb 2022 – Aug 2022*  
+**Data Dream Technology Company**&emsp;<img height="30" width="40" src="https://www.dtdream.com/logo_web.png">  &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;  &emsp; &emsp;&emsp;*Feb 2022 – Aug 2022*  
 *Software Engineer Intern* &emsp;    &emsp; &emsp;  &emsp;   &emsp;&emsp;   &emsp; &emsp;   &emsp; &emsp;&emsp; &emsp;   &emsp; &emsp;  &emsp;   &emsp; Hangzhou, China
 
 - Constructed an authentication-required customer rental system using **React<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp"> + Tailwind CSS** and hooks.
