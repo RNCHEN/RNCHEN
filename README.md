@@ -57,7 +57,7 @@ Master of Science in Electrical and Computer Engineering  &emsp;    &emsp; &emsp
 
 **Economic Data Visualization**  &emsp; *Mar 2022*
 
-- Constructed economic data visualization [website](https://rnchen.github.io/firstDeployment/) using JavaScript, Python<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp"> and CSS<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">.
+- Constructed economic data visualization [website](https://github.com/RNCHEN/2022-cdc-1.0) using JavaScript, Python<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp"> and CSS<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">.
 - Utilized **CSS keyframes** for animations and created unique data-advertising bubbles.
 - Replicated Apple Dock effect and utilized web crawler and Jieba lib in Python for high-frequency words extraction.
 - A similar project about the data visualization of university entry examination can be seen [here](https://rnchen.github.io/2021-cdc-display/)
