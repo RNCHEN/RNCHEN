@@ -1,4 +1,4 @@
- ### 😄Hi! You can download my resume [here](https://drive.google.com/file/d/1fPkSUBN55teUlrybOqUXaYt86KfaCk0t/view?usp=sharing)
+ ### 😄Hi! You can download my resume [here](https://drive.google.com/file/d/1fPkSUBN55teUlrybOqUXaYt86KfaCk0t/view)
 
 <!--
 **RNCHEN/RNCHEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
