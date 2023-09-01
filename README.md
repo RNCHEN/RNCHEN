@@ -41,7 +41,7 @@ Master of Science in Electrical and Computer Engineering  &emsp;    &emsp; &emsp
 **Data Dream Technology Company**&emsp;<img height="30" width="40" src="https://www.dtdream.com/logo_web.png">  &emsp;&emsp;&emsp;&emsp; &emsp; &emsp;  &emsp; &emsp;&emsp;*Feb 2022 – Aug 2022*  
 *Software Engineer Intern* &emsp;    &emsp; &emsp;  &emsp;   &emsp;&emsp;   &emsp; &emsp;   &emsp; &emsp;&emsp; &emsp;   &emsp; &emsp;  &emsp;   &emsp; Hangzhou, China
 
-- Constructed an authentication-required customer rental system using **React<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp"> + Tailwind CSS** and hooks. Employed lazy loading and pagination techniques to avoid the unnecessary overhead of fetching all the data simultaneously
+- Constructed an authentication-required customer rental system using **Typescript + React<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp"> + Tailwind CSS** and hooks. Employed lazy loading and pagination techniques to avoid the unnecessary overhead of fetching all the data simultaneously
 - Enhanced the alert authentication feature by managing data inflow and outflow with distinct permissions. Resolved timing issues of data change timing, reduced the frequency of user inquiries
 - Learned and applied the G6(Antv) in a short time with Echarts to exhibit tag categories. Implemented a keyword highlighting feature by applying regular expressions in search results, enhancing user engagement by 20%
 - Created an AI chatting system and FAQ section. Achieved new functionalities by passing values and methods between parent and child components while minimizing modifications to the existing main framework code
@@ -71,7 +71,7 @@ Master of Science in Electrical and Computer Engineering  &emsp;    &emsp; &emsp
 
 ## SKILLS
 
-- **Programming Languages**: Javascript, Java, Python, C
+- **Programming Languages**: Javascript, Typescript, Java, Python, C
 - **Frameworks**: SpringBoot, Django, React, Vue, Bootstrap
 - **Coding Environment & Databases**: Tencent Cloud, NodeJs, MySQL, SQLite, PostgreSQL, Redis
 - **Tools**: Git, Linux (Centos), Regular expression, Ant Design, Formspree, Echarts, G6 (Antv), Tailwind CSS, RESTful
