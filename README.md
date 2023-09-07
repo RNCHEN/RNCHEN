@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # WEIGEN CHEN
 
-Phone 412-390-7892 **|** Email weigenc@andrew.cmu.edu  **|** GitHub[RNCHEN](https://github.com/RNCHEN) **|** Career Objective: Software Development
+Phone 412-390-7892 **|** Email weigenc@andrew.cmu.edu  **|** GitHub [RNCHEN](https://github.com/RNCHEN) **|** Career Objective: Software Development **|** Linkedin [here](https://www.linkedin.com/in/weigenchen/)
 
 ## EDUCATION
 
