@@ -27,9 +27,39 @@ Master of Science in Electrical and Computer Engineering  &emsp;    &emsp; &emsp
 **University of Electronic Science and Technology of China**    &emsp;  &emsp; &emsp;*Sep 2019 - Jun 2023*<br>
 *Bachelor of Science in Software Engineering*   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; Chengdu, SC
 
-## INTERNSHIP
+## SKILLS
 
-**SAP (China)** &emsp;<img height="30" width="50" src="https://github.com/RNCHEN/RNCHEN/assets/71336168/2d29dee3-1ea0-435c-97dd-2355bb40a922">
+- **Programming Languages**: Java, Go, Python, SQL, JavaScript, TypeScript, Rust, C, Bash, R
+- **Frameworks & Databases**: MySQL, MongoDB, Redis, Elasticsearch, Spring, Django, Fiber, Node.js, React, Next.js
+- **Cloud & Tools**: AWS, Spark, SAP Hana, Hadoop, GCP, Docker, Kubernetes, Nginx, Jenkins, CI/CD, GraphQL
+
+## Work Experience
+
+
+**Cepton**, San Jose, CA <img height = "30" wdith = "50" src = "https://cdn.prod.website-files.com/63cec92432f15791c9dface0/6409f0c5c6f64202860631c8_cepton-logo-white.svg">  
+Software Engineer Intern  
+May 2024 - August 2024  
+
+- Refactored an internal developer website from React to Next.js, employing a Static Site Generator to enhance First Contentful Paint times by 40% and integrating CDN to reduce server load.
+- Replaced a C++ test system with Rust to enhance memory safety, concurrency handling, and maintainability.
+- Enhanced system reliability and data integrity through a validation-first approach, enabling concurrent downloading.
+- Established a CI/CD pipeline utilizing Docker, Jenkins, and GitHub Actions to accelerate release cycles by 20%.
+
+
+
+**Carnegie Mellon University** <img src="https://github.com/user-attachments/assets/2fedb24e-d368-4a21-b0df-c4eb4536fa4c" height="50px"> - Software and Societal Systems Department, Pittsburgh, PA
+
+Software Engineer Developer  
+January 2024 - May 2024  
+
+- Developed a high-performance data collection system leveraging Fiber for optimal CPU core utilization and reduced memory leakage, enhanced with MongoDB using indexed data storage for performance optimization.
+- Enhanced response efficiency by 70% by switching from RESTful to GraphQL API, optimizing data retrieval processes.
+- Implemented browser storage, skeleton screens, and lazy loading in React to enhance user experience by reducing load times and providing seamless visual feedback.
+
+
+
+
+**SAP** &emsp;<img height="30" width="50" src="https://github.com/RNCHEN/RNCHEN/assets/71336168/2d29dee3-1ea0-435c-97dd-2355bb40a922">
 &emsp; &emsp;  &emsp; &emsp; &emsp;  &emsp; &emsp;&emsp;&emsp; &emsp;  &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;*Sep 2022 – Apr 2023*  
 *Software Engineer Intern*  &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;Chengdu, China
 
@@ -47,6 +77,22 @@ Master of Science in Electrical and Computer Engineering  &emsp;    &emsp; &emsp
 - Created an AI chatting system and FAQ section. Achieved new functionalities by passing values and methods between parent and child components while minimizing modifications to the existing main framework code
 
 ## PROJECTS
+
+**ETL Optimization and Kubernetes Scheduling**  
+March 2024 - April 2024
+
+Developed a distributed machine learning pipeline for LLM inference using Apache Spark, deployed on AWS, to handle a complex 60GB dataset with over 800 million features, utilizing HDFS for scalable data management.
+Advanced data handling by implementing an inverted index and optimizing joins in RDDs to reduce data shuffling, solving OOM issues and cutting gradient descent training time by 60%.
+Implemented an advanced Kubernetes scheduler for managing both CPU and GPU machines, optimizing resource allocation for MPI and ML jobs, reducing Job Completion Time by 60%.
+
+
+**High-Performance Proxy Server**  
+February 2024 - March 2024
+
+Implemented a multi-threaded, cache-designed proxy server in C using mutexes, read-write locks, and producer-consumer synchronization to ensure data consistency in high-concurrency environments.
+Engineered a cache simulator to store web response objects, using LRU replacement policy and following a write-back, write allocate policy, boosting proxy server throughput by 30%.
+
+
 **Own Listening Practice**  &emsp;<img height="30" width="90" src="https://github.com/RNCHEN/RNCHEN/assets/71336168/0d8a3597-e60f-4d30-9e32-439089424ad0">
   &emsp;*Dec 2022 - Jun 2023*
 
@@ -69,10 +115,5 @@ Master of Science in Electrical and Computer Engineering  &emsp;    &emsp; &emsp
 - Implemented various functions including login verification code, file upload, online chat room, and more.
 - Applied **JWT** for permission authentication and authorization.
 
-## SKILLS
 
-- **Programming Languages**: Javascript, Typescript, Java, Python, C
-- **Frameworks**: SpringBoot, Django, React, Vue, Bootstrap
-- **Coding Environment & Databases**: Tencent Cloud, NodeJs, MySQL, SQLite, PostgreSQL, Redis
-- **Tools**: Git, Linux (Centos), Regular expression, Ant Design, Formspree, Echarts, G6 (Antv), Tailwind CSS, RESTful
 
