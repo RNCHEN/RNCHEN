@@ -20,7 +20,7 @@ Personal Web [here](https://rnchen.com/) **|** Email weigenc@andrew.cmu.edu  **|
 
 ## EDUCATION
 
-**Carnegie Mellon University** <img src="https://github.com/user-attachments/assets/2fedb24e-d368-4a21-b0df-c4eb4536fa4c" height="50px"> &emsp;  &emsp;  &emsp; &emsp;  &emsp;  &emsp; &emsp;  &emsp;  &emsp;&emsp;*Sep 2023 - Jun 2025 (Expected)*<br>
+**Carnegie Mellon University** <img src="https://github.com/user-attachments/assets/2fedb24e-d368-4a21-b0df-c4eb4536fa4c" height="50px"> &emsp;  &emsp;  &emsp; &emsp;  &emsp;  &emsp; &emsp;  &emsp;  &emsp;&emsp;*Sep 2023 - May 2025 *<br>
 Master of Science in Electrical and Computer Engineering  &emsp;    &emsp; &emsp;  &emsp;   &emsp; Pittsburgh, PA  
 
 
