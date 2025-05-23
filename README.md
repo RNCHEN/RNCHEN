@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # WEIGEN CHEN
 
-Personal Web [here](https://rnchen.com/) **|** Email weigenc@andrew.cmu.edu  **|** GitHub [RNCHEN](https://github.com/RNCHEN) **|** Career Objective: Software Development **|** Linkedin [here](https://www.linkedin.com/in/weigenchen/)
+Personal Web [here](https://rnchen.com/) **|** Email rnchen0218@gmail.com  **|** GitHub [RNCHEN](https://github.com/RNCHEN) **|** Career Objective: Software Development **|** Linkedin [here](https://www.linkedin.com/in/weigenchen/)
 
 ## EDUCATION
 
