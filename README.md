@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # WEIGEN CHEN
 
-Personal Web [here](https://rnchen.com/) **|** Email rnchen0218@gmail.com  **|** GitHub [RNCHEN](https://github.com/RNCHEN) **|** Career Objective: Software Development **|** Linkedin [here](https://www.linkedin.com/in/weigenchen/)
+Personal Web [here](https://rnchen.com/) **|** Email rnchen0218@gmail.com  **|** GitHub [RNCHEN](https://github.com/RNCHEN) **|** Career Objective: Software Engineer **|** Linkedin [here](https://www.linkedin.com/in/weigenchen/)
 
 ## EDUCATION
 
@@ -32,10 +32,12 @@ Master of Science in Electrical and Computer Engineering  &emsp;    &emsp; &emsp
 
 - **Programming Languages**: Java, Go, Python, SQL, JavaScript, TypeScript, Rust, C, Bash, R
 - **Frameworks & Databases**: MySQL, MongoDB, Redis, Elasticsearch, Spring, Django, Fiber, Node.js, React, Next.js
-- **Cloud & Tools**: AWS, Spark, SAP Hana, Hadoop, GCP, Docker, Kubernetes, Nginx, Jenkins, CI/CD, GraphQL
+- **Cloud & Tools**: AWS, Spark, SAP Hana, Hadoop, GCP, Docker, K8S, Nginx, Jenkins, CI/CD, GraphQL
 
 ## Work Experience
-
+**Fulgent Genetics**, El Monte, CA <img height = "100" width = "100" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwp8d9p0-3AyRKCQm3SQgafXhcrtbQeilzVA&s">    
+Software Engineer
+Sep 2025 – Present
 
 **Cepton**, San Jose, CA <img height = "30" wdith = "50" src = "https://cdn.prod.website-files.com/63cec92432f15791c9dface0/6409f0c5c6f64202860631c8_cepton-logo-white.svg">  
 Software Engineer Intern  
